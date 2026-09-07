@@ -1,5 +1,6 @@
 # Hello there.
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=itsariadust&layout=compact&langs_count=6&theme=github_dark_dimmed&hide=CSS&exclude_repo=github-readme-stats)](https://github-stats-extended.vercel.app/api/top-langs?username=itsariadust&layout=compact&langs_count=6&theme=transparent)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=itsariadust&layout=donut&langs_count=6&theme=github_dark_dimmed&hide=CSS&exclude_repo=github-readme-stats)](https://github-stats-extended.vercel.app/api/top-langs?username=itsariadust&layout=compact&langs_count=6&theme=transparent)
+
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=itsariadust&include_all_commits=true&theme=github_dark_dimmed)](https://github-stats-extended.vercel.app/api?username=itsariadust&include_all_commits=true&theme=github_dark_dimmed)
 ## Tech that I use:
