@@ -1,7 +1,7 @@
 # Hello there.
-[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=itsariadust&hide_border=true&show_icons=true&layout=compact&card_width=300&icon_color=79ff97&text_color=9f9f9f&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
-[![itsariadusts's GitHub stats](https://github-stats-extended.vercel.app/api/?username=itsariadust&hide_border=true&show_icons=true&icon_color=79ff97&text_color=9f9f9f&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=itsariadust&layout=compact&langs_count=6&theme=github_dark_dimmed&hide=CSS&exclude_repo=github-readme-stats)](https://github-stats-extended.vercel.app/api/top-langs?username=itsariadust&layout=compact&langs_count=6&theme=transparent)
 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=itsariadust&include_all_commits=true&theme=github_dark_dimmed)](https://github-stats-extended.vercel.app/api?username=itsariadust&include_all_commits=true&theme=github_dark_dimmed)
 ## Tech that I use:
 ### Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
