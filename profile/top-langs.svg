@@ -138,7 +138,7 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="84.8"
+          width="84.79"
           height="8"
           fill="#b07219"
         />
@@ -146,9 +146,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="84.8"
+          x="84.79"
           y="0"
-          width="82.18"
+          width="82.19"
           height="8"
           fill="#3178c6"
         />
@@ -206,7 +206,7 @@
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#3178c6" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        TypeScript 32.87%
+        TypeScript 32.88%
       </text>
     </g>
   </g><g transform="translate(0, 50)">
